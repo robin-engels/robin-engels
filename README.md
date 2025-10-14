@@ -28,7 +28,7 @@ I'm a **Software Development Apprentice** passionate about building projects, le
 
 ### 📫 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/robin-engels)
-
+[![X (Twitter) Follow](https://img.shields.io/badge/Follow-%40robinengels__dev-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/robinengels_dev?s=21)
 ---
 
 ⭐ *"Learn. Code. Grow."*
