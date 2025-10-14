@@ -31,4 +31,4 @@ I'm a **Software Development Apprentice** passionate about building projects, le
 [![X (Twitter) Follow](https://img.shields.io/badge/Follow-%40robinengels__dev-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/robinengels_dev?s=21)
 ---
 
-⭐ *"Learn. Code. Grow."*
+
