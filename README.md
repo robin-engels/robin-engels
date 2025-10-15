@@ -8,7 +8,8 @@ I'm a **Software Development Apprentice** passionate about building projects, le
 - 💻 Currently training to become a professional Developer
 - 🌱 Learning **Angular**, **JavaScript**
 - ⚙️ Working mostly with **JetBrains IDEs** and **Git**  
-- ☕️ My current project **Mocha.sh** -> 
+- ☕️ My current project **Mocha.sh** -> https://github.com/Mocha-sh
+
 - 🎯 Goal: Keep growing as a developer and create clean, creative software solutions
 
 ---
