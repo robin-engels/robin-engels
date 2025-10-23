@@ -9,7 +9,7 @@ I'm a **Software Development Apprentice** passionate about building projects, le
 - 🌱 Learning **Angular**, **JavaScript**  
 - ⚙️ Working mostly with **JetBrains IDEs**, **Visual Studio Code**, and **Git**  
 - ☕️ My current project **Mocha.sh** -> [https://github.com/Mocha-sh](https://github.com/Mocha-sh)
-
+- 🐧 Using **EndeavourOS** and **Windows 11** as my daily operating systems  
 - 🎯 Goal: Keep growing as a developer and create clean, creative software solutions  
 
 ---
@@ -27,9 +27,12 @@ I'm a **Software Development Apprentice** passionate about building projects, le
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+#### Operating Systems  
+![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7F7FFF?style=for-the-badge&logo=endeavouros&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+
 ---
 
 ### 📫 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/robin-engels)
 [![X (Twitter) Follow](https://img.shields.io/badge/Follow-%40robinengels__dev-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/robinengels_dev?s=21)
-
